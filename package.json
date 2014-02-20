@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-light-speed-out",
+  "description": "light-speed-out animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "light-speed-out"
+  ],
+  "styles": [
+    "light-speed-out.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
